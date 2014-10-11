@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1382107680 source:c:\users\zoebpc\documents\codeblocks\reversetime\main.cpp
+	<iostream>
+	<fstream>
+
